@@ -5,7 +5,7 @@
 
 Here’s the updated `README.md` for your repository named `s3-static-website-terraform`:
 
-```markdown
+
 # S3 Static Website Deployment with Terraform
 
 This project demonstrates how to deploy a simple static website to Amazon S3 using Terraform. Follow the instructions below to set up and run the project.
